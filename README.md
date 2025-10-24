@@ -10,7 +10,7 @@ pan tilt gimbal
 </p>
 
 <h3 align="center" style="color:#9370DB; font-size:17px;">
-testing with jetson orin with arducam
+Testing  jetson orin with arducam
 </h3>
 
 <p align="center">

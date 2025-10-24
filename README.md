@@ -14,7 +14,7 @@ testing with jetson orin with arducam
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Ros/concertina3D.gif" width="60%" />
+  <img src="https://github.com/mahi361/Pan-tilt-gimbal-for-vision-system/blob/main/git/arducam_jetson_orin_test_gif.gif" width="60%" />
 </p>
 
 <h3 align="center" style="color:#FF6347; font-size:17px;">

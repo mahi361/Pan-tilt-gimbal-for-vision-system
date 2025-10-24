@@ -6,7 +6,7 @@ pan tilt gimbal
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mahi361/Pan-tilt-gimbal-for-vision-system/blob/main/git/pan%20tilt_gim_gif.gif" width="60%" />
+  <img src="https://github.com/mahi361/Pan-tilt-gimbal-for-vision-system/blob/main/git/pan%20tilt_gim_gif.gif" width="40%" />
 </p>
 
 <h3 align="center" style="color:#9370DB; font-size:17px;">
